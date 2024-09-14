@@ -1,0 +1,16 @@
+# ninja log v6
+12	3396	7479915741426791	CMakeFiles/ProyectoDatos2_1.dir/main.cpp.obj	5d2e3dd570ca48e8
+1908	4494	7479890088804607	ProyectoDatos2_1.exe	668ef85f86968f74
+6	25	7479923317640541	clean	808cc43b64b982b1
+22	174	7479927218757889	lib/libgtest_main.a	ac4281a12f945661
+23	831	7479919958676376	CMakeFiles/ProyectoDatos2_1.dir/MPointerGC.cpp.obj	11e7581d92d933df
+22	3089	7479923411167248	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	2f6125370fe5fe50
+14	14334	7479923411096333	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	ce4dad39fae3b4b0
+13	4567	7479926959150201	lib/libgtest.a	62d1496c5a03a5af
+40	835	7479919958846783	CMakeFiles/ProyectoDatos2_1.dir/MPointer.cpp.obj	dd1819f64e33cc72
+32	1459	7479919958760101	CMakeFiles/ProyectoDatos2_1.dir/DoublyLinkedList.cpp.obj	bcaa9ff59698716b
+24	4785	7479966707380283	CMakeFiles/ProyectoDatos2_1.dir/_deps/googletest-src/googlemock/src/gmock-cardinalities.cc.obj	a557e68d8e5fe5fe
+31	5068	7479966707453723	CMakeFiles/ProyectoDatos2_1.dir/_deps/googletest-src/googlemock/src/gmock-internal-utils.cc.obj	6f93641f8b7dac1b
+54	5205	7479966707685126	CMakeFiles/ProyectoDatos2_1.dir/_deps/googletest-src/googlemock/src/gmock.cc.obj	ecdb272d5fdcedc7
+37	5252	7479966707517003	CMakeFiles/ProyectoDatos2_1.dir/_deps/googletest-src/googlemock/src/gmock-matchers.cc.obj	98dd1bb0db2d8264
+44	6466	7479966707576970	CMakeFiles/ProyectoDatos2_1.dir/_deps/googletest-src/googlemock/src/gmock-spec-builders.cc.obj	452b19bf66db82d0
