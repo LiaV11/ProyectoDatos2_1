@@ -11,6 +11,7 @@ include_directories(${GTEST_INCLUDE_DIRS})
 add_executable(ProyectoDatos2_1 main.cpp MPointerGC.cpp DoublyLinkedList.cpp
         DoublyLinkedList.cpp
         DoublyLinkedList.h
+        main.cpp
         main.cpp)
 
 # Vincula Google Test
